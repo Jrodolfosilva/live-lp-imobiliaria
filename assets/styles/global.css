@@ -50,7 +50,9 @@
    
 }
 
-
+.redes-sociais a {
+    color: #fff;
+}
 
 img {
     /* Impede que a imagem seja selecionada ou arrastada */
