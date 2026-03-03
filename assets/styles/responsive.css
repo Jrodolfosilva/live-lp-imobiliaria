@@ -54,8 +54,12 @@
     }
 
     .redes-sociais {
-        display: none;
-    }
+    
+    margin-top: 0; 
+}
+
+.redes-sociais a {
+    font-size: 10px;
 }
 
 @media screen and (min-width: 800px) and (max-width: 1024px) {
